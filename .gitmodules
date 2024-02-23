@@ -1,0 +1,12 @@
+[submodule "ex_module"]
+	path = ex_module
+	url = https://github.com/shrashti1804/git-repo.git
+[submodule "external_module"]
+	path = external_module
+	url = https://github.com/shrashti1804/git-repo.git
+[submodule "new_external_module"]
+	path = new_external_module
+	url = https://github.com/shrashti1804/git-repo.git
+[submodule "git-project/SubProject"]
+	path = git-project/SubProject
+	url = https://github.com/shrashti1804/git-repo.git
